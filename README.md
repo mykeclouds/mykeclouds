@@ -8,8 +8,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Ceritifactions</h2>
-- <b>CompTIA Network+</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>CompTIA Network+</b> Link to Cert
+- <b>CompTIA Network+</b> Link to Cert
+- <b>CompTIA A+</b> Link to Cert
 
 <h2>📺 Popular YouTube Videos</h2>
 
