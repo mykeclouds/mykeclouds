@@ -1,21 +1,27 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/mykeclouds">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a>GRC</a></h1>
+<h1>Hi, I'm Michael! <br/>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support Specialist</a></h1>
+
+<h2>👨‍💻 Support Projects:</h2>
+
+- <b>Active Directory</b>
+  - [Add User](https://github.com/mykeclouds/ActiveDirectoryLab)
+- <b>Ticketing</b>
+  - [Title](Link)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Title](LInk)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Title](Link)
 
-<h2>Ceritifactions</h2>
-- <b>CompTIA Network+</b> Link to Cert
-- <b>CompTIA Network+</b> Link to Cert
-- <b>CompTIA A+</b> Link to Cert
+ <h2>👨‍💻 Ceritifactions</h2>
+
+- <b>CompTIA Security+ (Coming Soon)</b>
+- <b>CompTIA Network+ ([N+](https://imgur.com/a/SaA1CAF))</b>
+- <b>CompTIA A+ ([[A+](https://imgur.com/a/TKvtaE1)]</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
