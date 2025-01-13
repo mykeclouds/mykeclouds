@@ -3,12 +3,12 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mykeclouds/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mykeclouds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mykeclouds/ticket-lifecycle)
+  - [osTicket: Installation Guide](https://github.com/mykeclouds/osticket-install)
+  - [osTicket: Configuration](https://github.com/mykeclouds/config)
+  - [osTicket: Ticketing Examples](https://github.com/mykeclouds/ticketing)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mykeclouds/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mykeclouds/azure-network-protocols)
+  - [Active Directory within Azure VMs](https://github.com/mykeclouds/configure-ad)
+  - [Network Security Groups (NSGs) and Protocols](https://github.com/mykeclouds/azure-network-protocols)
 
 - <b>Active Directory</b>
   - [Add User](https://github.com/mykeclouds/ActiveDirectoryLab)
@@ -43,7 +43,7 @@
 
 [twitter]: https://twitter.com/mycmiketech
 [youtube]: https://www.youtube.com/c/mycmiketech
-[instagram]: https://www.instagram.com/mycmiketech/
+[instagram]: https://www.instagram.com/mycmiketech
 [linkedin]: https://linkedin.com/in/mycmiketech
 
 <!--
